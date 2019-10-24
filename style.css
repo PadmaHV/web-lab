@@ -1,0 +1,23 @@
+usn
+{
+	background-color: gray;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	display: block;
+}
+name
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color : red;
+	text-align: center;
+	display: block;
+}
+branch,mail,NOC,YOJ
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	display: block;
+}

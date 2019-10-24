@@ -1,0 +1,28 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<students>
+	<student>
+		<usn>USN: 4VV16CS001</usn>
+		<name>Name: Doraemon</name>
+		<NOC>College: VVCE</NOC>
+		<branch>Branch: CSE</branch>
+		<YOJ>Year: 2016</YOJ>
+		<mail>Email: dora@gmail.com</mail>
+	</student>
+	<student>
+		<usn>USN: 4VV16CS002</usn>
+		<name>Name: Nobita</name>
+		<NOC>College: VVCE</NOC>
+		<branch>Branch: CSE</branch>
+		<YOJ>Year: 2016</YOJ>
+		<mail>Email: Nobita@gmail.com</mail>
+	</student>
+	<student>
+		<usn>USN: 4VV16CS003</usn>
+		<name>Name: Sizuka</name>
+		<NOC>College: VVCE</NOC>
+		<branch>Branch: CSE</branch>
+		<YOJ>Year: 2016</YOJ>
+		<mail>Email: sizu@gmail.com</mail>
+	</student>
+</students>
